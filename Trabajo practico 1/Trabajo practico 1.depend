@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1599341003 source:c:\users\alber\onedrive\documentos\utn\1er cuatrimestre\laboratorio i  - programacion i\tp\tp_laboratorio_1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<wchar.h>
+	<locale.h>
+	"Operaciones.h"
+
+1599322658 c:\users\alber\onedrive\documentos\utn\1er cuatrimestre\laboratorio i  - programacion i\tp\tp_laboratorio_1\trabajo practico 1\operacionesaritmeticas.h
+	<stdio.h>
+	<stdlib.h>
+	"OperacionesAritmeticas.h"
+
+1599341072 c:\users\alber\onedrive\documentos\utn\1er cuatrimestre\laboratorio i  - programacion i\tp\tp_laboratorio_1\trabajo practico 1\operaciones.h
+
+1599341093 source:c:\users\alber\onedrive\documentos\utn\1er cuatrimestre\laboratorio i  - programacion i\tp\tp_laboratorio_1\trabajo practico 1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Operaciones.h"
+
